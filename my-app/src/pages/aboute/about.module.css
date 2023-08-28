@@ -1,0 +1,21 @@
+.about{
+    text-align: center;
+}
+.about h3{
+    direction: rtl;
+    padding-top: 100px;
+}
+.about p{
+    direction: rtl;
+    padding-top: 30px;
+    text-align: justify;
+}
+.about h2{
+    margin: 50px auto;
+    text-align: center;
+    color: rgb(8, 145, 8);
+}
+.about img{
+    width: 40%;
+    
+}

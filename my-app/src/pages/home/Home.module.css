@@ -1,0 +1,13 @@
+.homeWrapper h3{
+    text-align: right;
+    padding-top: 30px;
+    
+}
+.articels{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.articels a{
+    width: 23%;
+}

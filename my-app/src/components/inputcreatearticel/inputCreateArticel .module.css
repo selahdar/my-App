@@ -1,0 +1,19 @@
+label{
+    display: block;
+    text-align: right;
+    color: dimgray;
+    margin-bottom: 10px;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: right;
+    width: 100%;
+
+}
+.inputCreateArticel{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
